@@ -70,8 +70,9 @@ body:before {
   z-index: 20;
 }
 
-
 .ip-server {
+  height: 100px;
+  width: 40%;
   margin-bottom: 15px;
   position: relative;
   z-index: 20;
