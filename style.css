@@ -64,12 +64,6 @@ body:before {
   border-bottom: 1px solid #fff;
 }
 
-.server-info {
-  margin-bottom: 150px;
-  position: relative;
-  z-index: 20;
-}
-
 .ip-server {
   height: 100px;
   width: 40%;
@@ -77,6 +71,13 @@ body:before {
   position: relative;
   z-index: 20;
 }
+
+.server-info {
+  margin-bottom: 150px;
+  position: relative;
+  z-index: 20;
+}
+
 
 .inner {
   padding: 40px;
