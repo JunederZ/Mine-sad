@@ -70,6 +70,13 @@ body:before {
   z-index: 20;
 }
 
+
+.ip-server {
+  margin-bottom: 15px;
+  position: relative;
+  z-index: 20;
+}
+
 .inner {
   padding: 40px;
 }
