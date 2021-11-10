@@ -89,7 +89,7 @@ section .image {
   background-size: cover;
 }
 section .image.image1 {
-  background-image: url("../img/example.jpg");
+  background-image: url("https://cdn.discordapp.com/attachments/813356112928964609/862869445826838558/ampas.png");
 }
 section .image.image2 {
   background-image: url("../img/example-2.jpg");
